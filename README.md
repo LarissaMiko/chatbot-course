@@ -94,7 +94,7 @@ Optional (je nach Fortschritt):
 - Gehe mit einer for-Schleife alle positiven Wörter durch und schau, ob sie in der Antwort des Nutzers vorkommen und setze in diesem Fall happy = True
 - Prüfe, ob der Nutzer happy ist (happy = True) und antworte entsprechend („Freut mich zu hören“/ „Schade, das zu hören“)
 
-Expert challenge: Prüfe zusätzlich, ob das Wort „nicht“ in der Antwort ist (zB. „Mir geht es gar nicht toll“)  Dann soll der Bot natürlich auf nicht-happy reagieren
+Expert challenge: Prüfe zusätzlich, ob das Wort „nicht“ in der Antwort ist (zB. „Mir geht es gar nicht toll“). Dann soll der Bot natürlich auf nicht-happy reagieren
 
 ## While-Schleifen
 
