@@ -5,8 +5,8 @@ print("Hallo, " + name)
 print("Wie geht es dir, " + name + "?")
 zustand = input()
 
-if "gut" in zustand and "nicht" not in zustand: 
-  print("Das ist schön zu hören!")
+if "gut" in zustand or "super" in zustand and "nicht" not in zustand:
+    print("Das ist schön zu hören!")
 
 else:
-  print("schade")
+    print("schade")
