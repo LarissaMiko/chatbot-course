@@ -42,14 +42,14 @@ Chatbots arbeiten mittels sogenanntem Natural Language Processing (NLP):
 
 ---
 
-Schreibe ein Programm, das den Nutzer zunächst nach seinem Namen fragt.
-Verwende den eingegebenen Namen, um den Nutzer anzusprechen und stelle zwei Fragen, die richtig oder falsch beantwortet werden können. Antworte dem Nutzer entsprechend. Das Gespräch könnte zB so anfangen:
-
+Schreibe ein Programm, das den Nutzer zunächst nach seinem Namen fragt. Verwende den eingegebenen Namen, um den Nutzer anzusprechen und stelle zwei Fragen, die ja oder nein beantwortet werden können. Antworte dem Nutzer entsprechend. Das Gespräch könnte zB so anfangen:
+    
     Bot: „Wie heißt du?“
-    Nutzer: „Alice“
-    Bot: „Hallo Alice, was ist die Hauptstadt von Lettland?
-    Nutzer: „Talinn“
-    Bot: „Das stimmt nicht. Die Hauptstadt von Lettland ist Riga.“
+   	Nutzer: „Alice“
+  	Bot: „Hallo Alice, willst du einen Witz hören?
+   	Nutzer: „Nein“
+  	Bot: „Schade, ich dachte, du hättest mehr Humor“
+
 
 ## String-Manipulationen, Logische Verknüpfungen
 
@@ -116,3 +116,18 @@ Expert Challenge: Variiere die Antworten des Bot je nachdem, wie schnell der Nut
 ## Funktionen
 
 ---
+
+## Final Project Ideen:
+ 1.  Baue einen Bot für ein Unternehmen zB Kundenservice
+ 2. Baue einen eigenen kleinen Akinator
+
+
+
+## Final Challenge: Baue deinen eigenen Akinator
+
+In unserem finalen Projekt bauen wir einen Bot, der ähnliches können soll wie der Akinator, den wir ganz zu Anfang des Kurses betrachtet haben.
+
+1. Überlegt euch eine Kategorie (zB. Schauspieler, Tiere, Sportler, Bands, ...) und eine Liste möglicher Antworten.
+2. 
+
+
